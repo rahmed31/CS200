@@ -1,2 +1,2 @@
 # machineprojects
-Machine projects for computer science courses
+Personal machine projects written in Java
